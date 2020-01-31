@@ -1,0 +1,6 @@
+framework module Pods_QueryMall {
+  umbrella header "Pods-QueryMall-umbrella.h"
+
+  export *
+  module * { export * }
+}
