@@ -2,7 +2,7 @@
 //  LoginSignup.swift
 //  QueryMall
 //
-//  Created by TunaYangSkey on 10/27/15.
+//  Created by Matthew James on 10/27/15.
 //  Copyright © 2015 QueryMall. All rights reserved.
 //
 

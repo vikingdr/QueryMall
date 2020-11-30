@@ -2,7 +2,7 @@
 //  UIUtilities.swift
 //  QueryMall
 //
-//  Created by TunaYangSkey on 11/7/15.
+//  Created by Matthew James on 11/7/15.
 //  Copyright © 2015 QueryMall. All rights reserved.
 //
 

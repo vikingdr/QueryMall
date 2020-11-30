@@ -2,7 +2,7 @@
 //  Deal.swift
 //  QueryMall
 //
-//  Created by TunaYangSkey on 11/14/15.
+//  Created by Matthew James on 11/14/15.
 //  Copyright © 2015 QueryMall. All rights reserved.
 //
 //  Deal class contains all information of a deal

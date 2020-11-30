@@ -2,7 +2,7 @@
 //  LoginSignupDetailViewController.swift
 //  QueryMall
 //
-//  Created by TunaYangSkey on 10/31/15.
+//  Created by Matthew James on 10/31/15.
 //  Copyright © 2015 QueryMall. All rights reserved.
 //
 //  Login Signup Detail view controller manage the registration and login events.
